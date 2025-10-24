@@ -67,7 +67,7 @@ RepuBot/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/RepuBot.git
+git clone https://github.com/DivineHosting/RepuBot.git
 cd RepuBot
 
 2️⃣ Install Dependencies
